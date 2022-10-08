@@ -14,3 +14,5 @@ This repo includes my own solutions and just posting them helps me keep the pace
 This is my Codewarrior Profile Badge, current status:
 
 [![Profile badge](https://www.codewars.com/users/HOOLAHAN/badges/large)](https://www.codewars.com/users/HOOLAHAN)
+
+[![Codewars](https://github.r2v.ch/codewars?user=HOOLAHAN&stroke=%232B2B2b&theme=light&top_languages=true)](https://www.codewars.com/users/HOOLAHAN "Codewars Profile")
